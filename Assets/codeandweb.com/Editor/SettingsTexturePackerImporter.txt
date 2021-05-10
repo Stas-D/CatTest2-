@@ -1,0 +1,21 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Textures/CutSceneMan.tpsheet
+- Assets/Textures/SpriteSheet/444.tpsheet
+- Assets/Textures/SpriteSheet/555.tpsheet
+- Assets/Textures/SpriteSheet/666.tpsheet
+- Assets/Textures/SpriteSheet/jumpend.tpsheet
+textureFileNames:
+- Assets/Textures/CutSceneMan.png
+- Assets/Textures/SpriteSheet/444.png
+- Assets/Textures/SpriteSheet/555.png
+- Assets/Textures/SpriteSheet/666.png
+- Assets/Textures/SpriteSheet/jumpend.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

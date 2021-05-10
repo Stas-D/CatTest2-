@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Key
+  - InteractiveObject
+  - DoorButton
+  - apple
+  - Undefined
+  - Floor
+  - Do
+  - Enemy
+  - Destroyed
+  - Undestroyed
+  - Inventory
+  - Lives
+  - ScoreManager
+  - ActiveCollaider
+  - ButtonLeft
+  - ButtonRight
+  - Timer
+  - LevelButton
+  - TotalScore
+  - MainCamera2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Interact
+  - Destroyed
+  - Furnuture
+  - GroundOnlyForPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
